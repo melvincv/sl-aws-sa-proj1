@@ -1,6 +1,6 @@
-# sl-aws-sa-proj1
+# Simplilearn AWS SA Project 1
 
-Project 1: Configure and Connect a MySQL Database Instance with a Web Server
+**Configure and Connect a MySQL Database Instance with a Web Server**
 
 This is the PHP CRUD app meant to be deployed in a Web server or similar container. It connects to a MySQL DB.
 
